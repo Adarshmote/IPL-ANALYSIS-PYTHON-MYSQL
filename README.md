@@ -35,14 +35,15 @@ highlight team and match performance trends.
 
 ## 🛠️ Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- MySQL
-- Matplotlib
-- Seaborn
-- Google Colab
-- GitHub
+| Technology | Purpose |
+|---|---|
+| Python | ETL and analysis |
+| Pandas | Data manipulation |
+| NumPy | Numerical operations |
+| MySQL | Data storage and SQL analytics |
+| Matplotlib | Data visualization |
+| Google Colab | Development environment |
+| GitHub | Version control and project hosting |
 
 ---
 
